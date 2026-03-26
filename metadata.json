@@ -1,0 +1,7 @@
+{
+  "name": "SignAI Translator",
+  "description": "AI-powered human language to sign language translator featuring a stick figure animator and link processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
